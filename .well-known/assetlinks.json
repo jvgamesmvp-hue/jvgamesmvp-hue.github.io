@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.jvgamesmvp_hue.twa",
+      "sha256_cert_fingerprints": [
+        "60:08:E6:D1:46:CC:C1:52:52:9C:05:18:E1:41:23:7C:27:53:8D:17:AA:9F:E7:92:55:62:CF:9B:93:64:D4:70"
+      ]
+    }
+  }
+]
